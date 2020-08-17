@@ -1,6 +1,2 @@
 # NoEndCrystals
-Only allow end crystal placement in The End.
-
-# Features
-- Block end crystal placement in the Overworld and Nether.
-- Allow end crystals in the End only.
+Only allow end crystal placement in The End. This plugin is not used on the main server anymore.
